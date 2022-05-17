@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Use_Cases" GeneratedClassName="FileSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">../../../../Database/Admin.txt</Value>
+    </Setting>
+    <Setting Name="LoggerSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">../../../../Database/Logger.txt</Value>
+    </Setting>
+    <Setting Name="FinancialManagerSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">../../../../Database/FinancialManagers.txt</Value>
+    </Setting>
+    <Setting Name="ReceptionistSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">../../../../Database/Receptionists.txt</Value>
+    </Setting>
+    <Setting Name="SalesManagerSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">../../../../Database/SalesManagers.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

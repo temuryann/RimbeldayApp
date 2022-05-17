@@ -1,0 +1,12 @@
+[
+  {
+    "FullName": "yeah of course",
+    "Salary": 4.0,
+    "Bonus": 2.0
+  },
+  {
+    "FullName": "aaa",
+    "Salary": 45.0,
+    "Bonus": 22.5
+  }
+]
